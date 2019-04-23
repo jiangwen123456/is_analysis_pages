@@ -636,14 +636,14 @@
   left:-10px;
   top:-1px;
   width:22px;
-  height:162px;
+  height:120px;
 }
 #u19p000 {
   border-width:0px;
   position:absolute;
-  left:-77px;
-  top:73px;
-  width:156px;
+  left:-57px;
+  top:51px;
+  width:116px;
   height:6px;
   -webkit-transform:rotate(90deg);
   -moz-transform:rotate(90deg);
@@ -655,7 +655,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:156px;
+  width:116px;
   height:6px;
 }
 #u19p001 {
@@ -678,7 +678,7 @@
   border-width:0px;
   position:absolute;
   left:-11px;
-  top:133px;
+  top:91px;
   width:24px;
   height:24px;
   -webkit-transform:rotate(270deg);
@@ -700,7 +700,7 @@
   left:335px;
   top:565px;
   width:2px;
-  height:151px;
+  height:109px;
 }
 #u19_text {
   border-width:0px;
@@ -714,8 +714,8 @@
 #u20 {
   border-width:0px;
   position:absolute;
-  left:209px;
-  top:726px;
+  left:212px;
+  top:674px;
   width:297px;
   height:49px;
 }
